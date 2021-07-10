@@ -1,0 +1,63 @@
+
+@media screen and (min-width: 1001px) and (max-width: 1250px) {
+
+	/*---------------------------------------- Participate Page CSS ------------------------------------------------------------------------------------*/
+
+	.column { 
+		float: left;
+		width: 24%;
+		margin-left: 5px;
+		margin-top: 20px;
+		padding: 2px;
+	}
+
+	.col_img {
+		float: left;
+		margin-left: 5px;
+		width: 200px;
+		height: 100px;
+		margin-top: 20px;
+	}
+
+	.col_img_oulu {
+		float: left;
+		margin-left: 5px;
+		width: 250px;
+		height: 100px;
+		margin-top: 10px;
+	}
+
+		/*---------------------------------------- Result Page CSS ------------------------------------------------------------------------------------*/
+
+	.desire-range-info {
+ 		margin-left: 90px;
+		margin-right: 90px;
+	}
+
+	.footer-result	{
+		width: 100%;
+		height: 300px;
+		padding: 40px;
+		font-size: 15px;
+		margin-top: 15px;
+		background: rgba(0, 0, 0, 0.8);
+	}
+
+
+	.slidecontainer {
+		width: 90%;
+		margin-top: 0px;
+		margin-left: 90px;
+		margin-right: 90px;
+		margin-bottom: 20px;
+	}
+
+
+	#result_display, #desire-range {
+		margin-top: 10px;
+		margin-left: 90px;
+		margin-right: 90px;
+		margin-bottom: 0px;
+	}
+}
+
